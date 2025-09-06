@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import moment from "moment-timezone";
 import { gsap } from "gsap";
-import NameSvg from "./nameSvg";
+import NameSvg from "./NameSvg";
 
 export default function Welcome() {
   const [dateTime, setDateTime] = useState("");
