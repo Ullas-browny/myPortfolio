@@ -1,5 +1,5 @@
 "use client";
-import About from "@/app/components/about/about";
+import About from "@/app/components/about/About";
 import Experiences from "@/app/components/about/Experiences";
 import WhatIDo from "@/app/components/about/WhatIDo";
 import Grid from "@/app/components/Grid";
